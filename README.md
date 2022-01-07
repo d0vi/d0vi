@@ -27,9 +27,9 @@
 ## ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-2. ⭐ Starred [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles)
-3. ✌️ Released [1.0.0](https://github.com/d0vi/moobile/releases/tag/1.0.0) in [d0vi/moobile](https://github.com/d0vi/moobile)
+1. ⭐ Starred [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows)
+2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+3. ⭐ Starred [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles)
 4. ⭐ Starred [badges/shields](https://github.com/badges/shields)
 <!--RECENT_ACTIVITY:end-->
 
