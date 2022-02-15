@@ -27,8 +27,8 @@
 ## ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows)
-2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+1. ⭐ Starred [Baaarbz/subscription-sys](https://github.com/Baaarbz/subscription-sys)
+2. ⭐ Starred [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows)
 3. ⭐ Starred [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles)
 4. ⭐ Starred [badges/shields](https://github.com/badges/shields)
 <!--RECENT_ACTIVITY:end-->
