@@ -27,9 +27,9 @@
 ## ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm)
-2. ⭐ Starred [Baaarbz/subscription-sys](https://github.com/Baaarbz/subscription-sys)
-3. ⭐ Starred [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows)
+1. ⭐ Starred [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager)
+2. ⭐ Starred [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm)
+3. ⭐ Starred [Baaarbz/subscription-sys](https://github.com/Baaarbz/subscription-sys)
 4. ⭐ Starred [badges/shields](https://github.com/badges/shields)
 <!--RECENT_ACTIVITY:end-->
 
