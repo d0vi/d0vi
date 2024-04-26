@@ -17,11 +17,11 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [d0vi/d0vi](https://github.com/d0vi/d0vi)<br>
-2. ⬆️ Pushed 1 commit(s) to [d0vi/d0vi](https://github.com/d0vi/d0vi)<br>
-3. ⬆️ Pushed 1 commit(s) to [d0vi/d0vi](https://github.com/d0vi/d0vi)<br>
-4. ⬆️ Pushed 1 commit(s) to [d0vi/d0vi](https://github.com/d0vi/d0vi)<br>
-5. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2045192140) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
+1. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2045192140) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
+2. 💪 Opened PR [#1230](https://github.com/alainm23/planify/pull/1230) in [alainm23/planify](https://github.com/alainm23/planify)<br>
+3. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2028958571) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
+4. 🔱 Forked [d0vi/planify](https://github.com/d0vi/planify) from [alainm23/planify](https://github.com/alainm23/planify)<br>
+5. ⭐ Starred [twpayne/chezmoi](https://github.com/twpayne/chezmoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
