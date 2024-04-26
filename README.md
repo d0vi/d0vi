@@ -17,10 +17,11 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1230](https://github.com/alainm23/planify/pull/1230) in [alainm23/planify](https://github.com/alainm23/planify)
-2. 🔱 Forked [d0vi/planify](https://github.com/d0vi/planify) from [alainm23/planify](https://github.com/alainm23/planify)
-3. ⭐ Starred [twpayne/chezmoi](https://github.com/twpayne/chezmoi)
-4. 💪 Opened PR [#1767](https://github.com/rest-assured/rest-assured/pull/1767) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)
+1. ⬆️ Pushed 1 commit(s) to [d0vi/d0vi](https://github.com/d0vi/d0vi)<br>
+2. ⬆️ Pushed 1 commit(s) to [d0vi/d0vi](https://github.com/d0vi/d0vi)<br>
+3. ⬆️ Pushed 1 commit(s) to [d0vi/d0vi](https://github.com/d0vi/d0vi)<br>
+4. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2045192140) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
+5. 💪 Opened PR [#1230](https://github.com/alainm23/planify/pull/1230) in [alainm23/planify](https://github.com/alainm23/planify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
