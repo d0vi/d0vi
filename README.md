@@ -17,10 +17,10 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager)
-2. ⭐ Starred [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm)
-3. ⭐ Starred [Baaarbz/subscription-sys](https://github.com/Baaarbz/subscription-sys)
-4. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+1. 💪 Opened PR [#1230](https://github.com/alainm23/planify/pull/1230) in [alainm23/planify](https://github.com/alainm23/planify)
+2. 🔱 Forked [d0vi/planify](https://github.com/d0vi/planify) from [alainm23/planify](https://github.com/alainm23/planify)
+3. ⭐ Starred [twpayne/chezmoi](https://github.com/twpayne/chezmoi)
+4. 💪 Opened PR [#1767](https://github.com/rest-assured/rest-assured/pull/1767) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
