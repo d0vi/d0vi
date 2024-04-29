@@ -19,11 +19,11 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2045192140) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
-2. 💪 Opened PR [#1230](https://github.com/alainm23/planify/pull/1230) in [alainm23/planify](https://github.com/alainm23/planify)<br>
-3. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2028958571) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
-4. 🔱 Forked [d0vi/planify](https://github.com/d0vi/planify) from [alainm23/planify](https://github.com/alainm23/planify)<br>
-5. ⭐ Starred [twpayne/chezmoi](https://github.com/twpayne/chezmoi)<br>
+1. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
+2. 📔 Created new repository [d0vi/dotfiles](https://github.com/d0vi/dotfiles)<br>
+3. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2045192140) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
+4. 💪 Opened PR [#1230](https://github.com/alainm23/planify/pull/1230) in [alainm23/planify](https://github.com/alainm23/planify)<br>
+5. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2028958571) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
