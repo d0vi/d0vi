@@ -23,7 +23,6 @@
 2. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2210397510) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
 3. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
 4. 📔 Created new repository [d0vi/dotfiles](https://github.com/d0vi/dotfiles)<br>
-5. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
