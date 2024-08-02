@@ -22,7 +22,6 @@
 1. 💬 Commented on [#1792](https://github.com/rest-assured/rest-assured/issues/1792#issuecomment-2210400911) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
 2. 💬 Commented on [#1778](https://github.com/rest-assured/rest-assured/pull/1778#issuecomment-2210397510) in [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)<br>
 3. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
-4. 📔 Created new repository [d0vi/dotfiles](https://github.com/d0vi/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
