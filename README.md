@@ -19,9 +19,10 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/d0vi/seat-code-challenge/pull/7) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-2. ⭐ Starred [rogervinas/spring-cloud-stream-kafka-step-by-step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)<br>
-3. ⭐ Starred [fiaas/fiaas-deploy-daemon](https://github.com/fiaas/fiaas-deploy-daemon)<br>
+1. 🎉 Merged PR [#6](https://github.com/d0vi/seat-code-challenge/pull/6) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
+2. 🎉 Merged PR [#7](https://github.com/d0vi/seat-code-challenge/pull/7) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
+3. ⭐ Starred [rogervinas/spring-cloud-stream-kafka-step-by-step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)<br>
+4. ⭐ Starred [fiaas/fiaas-deploy-daemon](https://github.com/fiaas/fiaas-deploy-daemon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
