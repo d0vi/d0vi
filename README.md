@@ -19,11 +19,11 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tmux/tmux](https://github.com/tmux/tmux)<br>
-2. ⭐ Starred [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
-3. 🎉 Merged PR [#8](https://github.com/d0vi/seat-code-challenge/pull/8) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-4. 🎉 Merged PR [#6](https://github.com/d0vi/seat-code-challenge/pull/6) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-5. 🎉 Merged PR [#7](https://github.com/d0vi/seat-code-challenge/pull/7) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
+1. 🎉 Merged PR [#9](https://github.com/d0vi/seat-code-challenge/pull/9) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
+2. 🎉 Merged PR [#10](https://github.com/d0vi/seat-code-challenge/pull/10) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
+3. ⭐ Starred [tmux/tmux](https://github.com/tmux/tmux)<br>
+4. ⭐ Starred [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
+5. 🎉 Merged PR [#8](https://github.com/d0vi/seat-code-challenge/pull/8) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
