@@ -19,11 +19,11 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)<br>
-2. 🎉 Merged PR [#9](https://github.com/d0vi/seat-code-challenge/pull/9) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-3. 🎉 Merged PR [#10](https://github.com/d0vi/seat-code-challenge/pull/10) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-4. ⭐ Starred [tmux/tmux](https://github.com/tmux/tmux)<br>
-5. ⭐ Starred [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
+1. ⭐ Starred [renemarc/dotfiles](https://github.com/renemarc/dotfiles)<br>
+2. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)<br>
+3. 🎉 Merged PR [#9](https://github.com/d0vi/seat-code-challenge/pull/9) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
+4. 🎉 Merged PR [#10](https://github.com/d0vi/seat-code-challenge/pull/10) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
+5. ⭐ Starred [tmux/tmux](https://github.com/tmux/tmux)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
