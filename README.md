@@ -20,10 +20,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [logandonley/dotfiles](https://github.com/logandonley/dotfiles)<br>
-2. ⭐ Starred [renemarc/dotfiles](https://github.com/renemarc/dotfiles)<br>
-3. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)<br>
-4. 🎉 Merged PR [#9](https://github.com/d0vi/seat-code-challenge/pull/9) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-5. 🎉 Merged PR [#10](https://github.com/d0vi/seat-code-challenge/pull/10) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
