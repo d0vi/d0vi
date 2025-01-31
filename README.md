@@ -22,8 +22,6 @@
 1. ❌ Closed PR [#13](https://github.com/d0vi/seat-code-challenge/pull/13) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 2. ❌ Closed PR [#12](https://github.com/d0vi/seat-code-challenge/pull/12) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 3. 🎉 Merged PR [#14](https://github.com/d0vi/seat-code-challenge/pull/14) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-4. 🎉 Merged PR [#11](https://github.com/d0vi/seat-code-challenge/pull/11) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-5. ⭐ Starred [logandonley/dotfiles](https://github.com/logandonley/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
