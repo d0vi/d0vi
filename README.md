@@ -19,9 +19,6 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#13](https://github.com/d0vi/seat-code-challenge/pull/13) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-2. ❌ Closed PR [#12](https://github.com/d0vi/seat-code-challenge/pull/12) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-3. 🎉 Merged PR [#14](https://github.com/d0vi/seat-code-challenge/pull/14) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
