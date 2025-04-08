@@ -1,14 +1,13 @@
 [![](https://img.shields.io/badge/Jesús_Iglesias-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
-[![](https://img.shields.io/badge/d0vi-330F63?style=flat&logo=gitlab&logoColor=white)][gitlab]
 
 <h1 align="center">Hi 👋🏻️, I'm Jesús</h1>
 <h3 align="center">A passionate backend engineer from Spain</h3>
 
-🔭 Right now, I'm employed at **Adevinta** contributing to the **coches.net** marketplace
+🔭 Right now, I'm employed at **Kelea** contributing to Inditex's Platform vertical
 
 🌱 I’m currently learning **Kubernetes, GitOps and bash scripting**
 
-💬 Ask me about **any Java question you have**
+💬 Let's talk about **Java**, **Linux** or any tech-related topic you want
 
 <p align="center">
   <a href="https://skillicons.dev">
