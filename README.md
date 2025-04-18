@@ -22,7 +22,6 @@
 2. 💬 Commented on [#4362](https://github.com/jesseduffield/lazygit/pull/4362#issuecomment-2798940397) in [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
 3. 🎉 Merged PR [#21](https://github.com/d0vi/seat-code-challenge/pull/21) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 4. 🎉 Merged PR [#19](https://github.com/d0vi/seat-code-challenge/pull/19) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-5. 🎉 Merged PR [#18](https://github.com/d0vi/seat-code-challenge/pull/18) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
