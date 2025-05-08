@@ -21,7 +21,6 @@
 1. 💪 Opened PR [#2](https://github.com/patricioguerra/work-counter/pull/2) in [patricioguerra/work-counter](https://github.com/patricioguerra/work-counter)<br>
 2. ❌ Closed PR [#20](https://github.com/d0vi/seat-code-challenge/pull/20) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 3. 💬 Commented on [#4362](https://github.com/jesseduffield/lazygit/pull/4362#issuecomment-2798940397) in [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
-4. 🎉 Merged PR [#21](https://github.com/d0vi/seat-code-challenge/pull/21) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
