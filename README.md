@@ -18,7 +18,9 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/patricioguerra/work-counter/pull/2) in [patricioguerra/work-counter](https://github.com/patricioguerra/work-counter)<br>
+1. ⭐ Starred [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)<br>
+2. ⭐ Starred [junegunn/fzf](https://github.com/junegunn/fzf)<br>
+3. 💪 Opened PR [#2](https://github.com/patricioguerra/work-counter/pull/2) in [patricioguerra/work-counter](https://github.com/patricioguerra/work-counter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
