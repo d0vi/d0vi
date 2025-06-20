@@ -21,8 +21,6 @@
 1. 🎉 Merged PR [#23](https://github.com/d0vi/seat-code-challenge/pull/23) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 2. 🎉 Merged PR [#24](https://github.com/d0vi/seat-code-challenge/pull/24) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
 3. 🎉 Merged PR [#22](https://github.com/d0vi/seat-code-challenge/pull/22) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-4. ⭐ Starred [gTile/gTile](https://github.com/gTile/gTile)<br>
-5. 💬 Commented on [#2](https://github.com/patricioguerra/work-counter/pull/2#issuecomment-2895731028) in [patricioguerra/work-counter](https://github.com/patricioguerra/work-counter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
