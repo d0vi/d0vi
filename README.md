@@ -18,6 +18,7 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#1](https://github.com/d0vi/technical-test-backend/pull/1) in [d0vi/technical-test-backend](https://github.com/d0vi/technical-test-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
