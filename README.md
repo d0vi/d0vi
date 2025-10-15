@@ -18,9 +18,7 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/d0vi/technical-test-backend/pull/3) in [d0vi/technical-test-backend](https://github.com/d0vi/technical-test-backend)<br>
-2. 🎉 Merged PR [#31](https://github.com/d0vi/seat-code-challenge/pull/31) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
-3. 🎉 Merged PR [#30](https://github.com/d0vi/seat-code-challenge/pull/30) in [d0vi/seat-code-challenge](https://github.com/d0vi/seat-code-challenge)<br>
+1. 👍 Approved [#5](https://github.com/d0vi/technical-test-backend/pull/5#pullrequestreview-3255234037) in [d0vi/technical-test-backend](https://github.com/d0vi/technical-test-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
