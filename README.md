@@ -18,7 +18,6 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5](https://github.com/d0vi/technical-test-backend/pull/5#pullrequestreview-3255234037) in [d0vi/technical-test-backend](https://github.com/d0vi/technical-test-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
