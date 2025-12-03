@@ -18,7 +18,8 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#61](https://github.com/osundblad/intellij-annotations-instrumenter-maven-plugin/issues/61#issuecomment-3480570414) in [osundblad/intellij-annotations-instrumenter-maven-plugin](https://github.com/osundblad/intellij-annotations-instrumenter-maven-plugin)<br>
+1. ⭐ Starred [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool)<br>
+2. 💬 Commented on [#61](https://github.com/osundblad/intellij-annotations-instrumenter-maven-plugin/issues/61#issuecomment-3480570414) in [osundblad/intellij-annotations-instrumenter-maven-plugin](https://github.com/osundblad/intellij-annotations-instrumenter-maven-plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
