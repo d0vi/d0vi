@@ -18,7 +18,10 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Wilfred/difftastic](https://github.com/Wilfred/difftastic)<br>
+1. 💬 Commented on [#10](https://github.com/d0vi/technical-test-backend/pull/10#issuecomment-3710135782) in [d0vi/technical-test-backend](https://github.com/d0vi/technical-test-backend)<br>
+2. ❌ Closed PR [#10](undefined) in [d0vi/technical-test-backend](https://github.com/d0vi/technical-test-backend)<br>
+3. 💬 Commented on [#2](https://github.com/patricioguerra/work-counter/pull/2#issuecomment-3710128708) in [patricioguerra/work-counter](https://github.com/patricioguerra/work-counter)<br>
+4. ⭐ Starred [Wilfred/difftastic](https://github.com/Wilfred/difftastic)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
