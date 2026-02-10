@@ -18,7 +18,8 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)<br>
+1. ⭐ Starred [harrymunro/nelson](https://github.com/harrymunro/nelson)<br>
+2. ⭐ Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
