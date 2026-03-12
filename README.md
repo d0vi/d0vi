@@ -19,7 +19,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
-2. ⭐ Starred [harrymunro/nelson](https://github.com/harrymunro/nelson)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
