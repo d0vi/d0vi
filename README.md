@@ -18,6 +18,7 @@
 ### ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
