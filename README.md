@@ -15,7 +15,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,git,kubernetes,docker,kafka,aws,elasticsearch,linux" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,git,kubernetes,docker,kafka,aws,elasticsearch,linux&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,git,kubernetes,docker,kafka,aws,elasticsearch,linux&theme=light" />
+      <img alt="Skills" src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,git,kubernetes,docker,kafka,aws,elasticsearch,linux&theme=light" />
+    </picture>
   </a>
 </p>
 
