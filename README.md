@@ -1,7 +1,11 @@
-[![](https://img.shields.io/badge/Jesús_Iglesias-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
-
 <h1 align="center">Hi 👋🏻️, I'm Jesús</h1>
 <h3 align="center">A passionate software engineer from Spain</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jesusiglesiasiglesias">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Jesús_Iglesias-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 🔭 Right now, I'm employed at **Playtomic** contributing to a platform that connects millions of players and clubs all around the world
 
@@ -22,5 +26,3 @@
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/d0vi/d0vi/output/github-snake.svg" />
   </picture>
 </p>
-
-[linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
