@@ -24,4 +24,3 @@
 </p>
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
-[gitlab]: https://gitlab.com/d0vi
