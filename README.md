@@ -15,14 +15,13 @@
   </a>
 </p>
 
-### ⚡ Recent activity
-
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-2. ⭐ Starred [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles)
-3. ✌️ Released [1.0.0](https://github.com/d0vi/moobile/releases/tag/1.0.0) in [d0vi/moobile](https://github.com/d0vi/moobile)
-4. ⭐ Starred [badges/shields](https://github.com/badges/shields)
-<!--RECENT_ACTIVITY:end-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d0vi/d0vi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d0vi/d0vi/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/d0vi/d0vi/output/github-snake.svg" />
+  </picture>
+</p>
 
 [linkedin]: https://linkedin.com/in/jesusiglesiasiglesias
 [gitlab]: https://gitlab.com/d0vi

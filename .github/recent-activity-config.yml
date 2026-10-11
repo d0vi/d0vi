@@ -1,4 +1,0 @@
-settings:
-  disabled_events:
-    - push
-    - pr_merge
