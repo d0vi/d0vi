@@ -7,11 +7,11 @@
   </a>
 </p>
 
-🔭 Right now, I'm employed at **Playtomic** contributing to a platform that connects millions of players and clubs all around the world
+🎾 Right now, I'm employed at **Playtomic** contributing to a platform that connects millions of players and clubs all around the world
 
 🌱 I’m currently learning **Kubernetes, GitOps and Rust**
 
-💬 Let's talk about **Java**, **Linux** or any tech-related topic you want
+💬 Open to talk about **Java**, **Linux** or any tech-related topic you want
 
 <p align="center">
   <a href="https://skillicons.dev">
